@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/nicolas-habashi-gauthier/static/css/main.9f306b08.css",
-    "main.js": "/nicolas-habashi-gauthier/static/js/main.7c4c9c06.js",
+    "main.js": "/nicolas-habashi-gauthier/static/js/main.f7ef725a.js",
     "static/media/market.png": "/nicolas-habashi-gauthier/static/media/market.bed372920d3f46a958f4.png",
     "static/media/php_project_1.png": "/nicolas-habashi-gauthier/static/media/php_project_1.d50f69a8fdf85ea15fc9.png",
     "static/media/code.png": "/nicolas-habashi-gauthier/static/media/code.c22f93134a269ff0a181.png",
-    "static/media/CV.pdf": "/nicolas-habashi-gauthier/static/media/CV.dc66a26d637b8958d785.pdf",
     "static/media/code2.png": "/nicolas-habashi-gauthier/static/media/code2.e2630e76e8c37723cbd9.png",
-    "static/media/lets_play.png": "/nicolas-habashi-gauthier/static/media/lets_play.55b48a0828d78931667d.png",
+    "static/media/CV.pdf": "/nicolas-habashi-gauthier/static/media/CV.64f9dfffc3435798baa1.pdf",
     "static/media/game_2.png": "/nicolas-habashi-gauthier/static/media/game_2.4a367bef8dc4413c7431.png",
     "static/media/header.jpg": "/nicolas-habashi-gauthier/static/media/header.10762427e704d53a66bd.jpg",
     "index.html": "/nicolas-habashi-gauthier/index.html",
     "main.9f306b08.css.map": "/nicolas-habashi-gauthier/static/css/main.9f306b08.css.map",
-    "main.7c4c9c06.js.map": "/nicolas-habashi-gauthier/static/js/main.7c4c9c06.js.map"
+    "main.f7ef725a.js.map": "/nicolas-habashi-gauthier/static/js/main.f7ef725a.js.map"
   },
   "entrypoints": [
     "static/css/main.9f306b08.css",
-    "static/js/main.7c4c9c06.js"
+    "static/js/main.f7ef725a.js"
   ]
 }
