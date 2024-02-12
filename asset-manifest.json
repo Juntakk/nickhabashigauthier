@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/nickhabashigauthier/static/css/main.ed96ccd7.css",
-    "main.js": "/nickhabashigauthier/static/js/main.e3097ea2.js",
+    "main.css": "/nickhabashigauthier/static/css/main.b1ca3645.css",
+    "main.js": "/nickhabashigauthier/static/js/main.0b3408cb.js",
     "static/media/market.png": "/nickhabashigauthier/static/media/market.bed372920d3f46a958f4.png",
     "static/media/php_project_1.png": "/nickhabashigauthier/static/media/php_project_1.d50f69a8fdf85ea15fc9.png",
-    "static/media/certificate_3.jpg": "/nickhabashigauthier/static/media/certificate_3.68b8cfbddd5da7d7e434.jpg",
-    "static/media/certificate_2.jpg": "/nickhabashigauthier/static/media/certificate_2.b44740672b12ac15fc11.jpg",
-    "static/media/certificate_1.jpg": "/nickhabashigauthier/static/media/certificate_1.fdfb439216101bafa77d.jpg",
     "static/media/code.png": "/nickhabashigauthier/static/media/code.c22f93134a269ff0a181.png",
     "static/media/code2.png": "/nickhabashigauthier/static/media/code2.e2630e76e8c37723cbd9.png",
-    "static/media/CV.pdf": "/nickhabashigauthier/static/media/CV.4958145f281f40938883.pdf",
+    "static/media/CV.pdf": "/nickhabashigauthier/static/media/CV.c51cea72029956020c05.pdf",
     "static/media/game_2.png": "/nickhabashigauthier/static/media/game_2.4a367bef8dc4413c7431.png",
     "static/media/header.jpg": "/nickhabashigauthier/static/media/header.10762427e704d53a66bd.jpg",
     "index.html": "/nickhabashigauthier/index.html",
-    "main.ed96ccd7.css.map": "/nickhabashigauthier/static/css/main.ed96ccd7.css.map",
-    "main.e3097ea2.js.map": "/nickhabashigauthier/static/js/main.e3097ea2.js.map"
+    "main.b1ca3645.css.map": "/nickhabashigauthier/static/css/main.b1ca3645.css.map",
+    "main.0b3408cb.js.map": "/nickhabashigauthier/static/js/main.0b3408cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed96ccd7.css",
-    "static/js/main.e3097ea2.js"
+    "static/css/main.b1ca3645.css",
+    "static/js/main.0b3408cb.js"
   ]
 }
