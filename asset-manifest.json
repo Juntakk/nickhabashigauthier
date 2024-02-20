@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nickhabashigauthier/static/css/main.609ccaef.css",
-    "main.js": "/nickhabashigauthier/static/js/main.f1967826.js",
+    "main.css": "/nickhabashigauthier/static/css/main.6851b146.css",
+    "main.js": "/nickhabashigauthier/static/js/main.1a29cdce.js",
     "static/media/market.png": "/nickhabashigauthier/static/media/market.bed372920d3f46a958f4.png",
     "static/media/php_project_1.png": "/nickhabashigauthier/static/media/php_project_1.d50f69a8fdf85ea15fc9.png",
     "static/media/code.png": "/nickhabashigauthier/static/media/code.c22f93134a269ff0a181.png",
@@ -10,11 +10,11 @@
     "static/media/game_2.png": "/nickhabashigauthier/static/media/game_2.4a367bef8dc4413c7431.png",
     "static/media/header.jpg": "/nickhabashigauthier/static/media/header.10762427e704d53a66bd.jpg",
     "index.html": "/nickhabashigauthier/index.html",
-    "main.609ccaef.css.map": "/nickhabashigauthier/static/css/main.609ccaef.css.map",
-    "main.f1967826.js.map": "/nickhabashigauthier/static/js/main.f1967826.js.map"
+    "main.6851b146.css.map": "/nickhabashigauthier/static/css/main.6851b146.css.map",
+    "main.1a29cdce.js.map": "/nickhabashigauthier/static/js/main.1a29cdce.js.map"
   },
   "entrypoints": [
-    "static/css/main.609ccaef.css",
-    "static/js/main.f1967826.js"
+    "static/css/main.6851b146.css",
+    "static/js/main.1a29cdce.js"
   ]
 }
