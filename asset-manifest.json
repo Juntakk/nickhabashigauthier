@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/nickhabashigauthier/static/css/main.2acba9d6.css",
-    "main.js": "/nickhabashigauthier/static/js/main.b6616d39.js",
+    "main.js": "/nickhabashigauthier/static/js/main.770f45ec.js",
     "static/media/steem.png": "/nickhabashigauthier/static/media/steem.365a8b8ffa7c665434c8.png",
     "static/media/seeflix.png": "/nickhabashigauthier/static/media/seeflix.4377c301980360c3064c.png",
     "static/media/market.png": "/nickhabashigauthier/static/media/market.bed372920d3f46a958f4.png",
     "static/media/planetField.png": "/nickhabashigauthier/static/media/planetField.cf8c87154f2c82967c36.png",
     "static/media/taskbro.png": "/nickhabashigauthier/static/media/taskbro.6186400401a887e2c2bf.png",
     "static/media/code.png": "/nickhabashigauthier/static/media/code.c22f93134a269ff0a181.png",
-    "static/media/CV_FR.pdf": "/nickhabashigauthier/static/media/CV_FR.b518f1f8ef7db709d18d.pdf",
-    "static/media/CV.pdf": "/nickhabashigauthier/static/media/CV.14a9c50d388dfeee2993.pdf",
     "static/media/code2.png": "/nickhabashigauthier/static/media/code2.e2630e76e8c37723cbd9.png",
+    "static/media/CV_V2.pdf": "/nickhabashigauthier/static/media/CV_V2.9a9e7d6e8f62c43052b2.pdf",
+    "static/media/CV_FR_V2.pdf": "/nickhabashigauthier/static/media/CV_FR_V2.7ecc4cdefab4971010c4.pdf",
     "static/media/game_2.png": "/nickhabashigauthier/static/media/game_2.4a367bef8dc4413c7431.png",
     "static/media/header.jpg": "/nickhabashigauthier/static/media/header.10762427e704d53a66bd.jpg",
     "static/media/game_1.png": "/nickhabashigauthier/static/media/game_1.1e761a4a168ba5d95bb0.png",
     "index.html": "/nickhabashigauthier/index.html",
     "main.2acba9d6.css.map": "/nickhabashigauthier/static/css/main.2acba9d6.css.map",
-    "main.b6616d39.js.map": "/nickhabashigauthier/static/js/main.b6616d39.js.map"
+    "main.770f45ec.js.map": "/nickhabashigauthier/static/js/main.770f45ec.js.map"
   },
   "entrypoints": [
     "static/css/main.2acba9d6.css",
-    "static/js/main.b6616d39.js"
+    "static/js/main.770f45ec.js"
   ]
 }
