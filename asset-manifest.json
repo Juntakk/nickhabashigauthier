@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/nickhabashigauthier/static/css/main.6185ac8b.css",
-    "main.js": "/nickhabashigauthier/static/js/main.16d182f5.js",
+    "main.css": "/nickhabashigauthier/static/css/main.59e116f9.css",
+    "main.js": "/nickhabashigauthier/static/js/main.221b90ed.js",
     "static/media/steem.png": "/nickhabashigauthier/static/media/steem.7ffbc4bd0da9a3ffb955.png",
     "static/media/seeflix.png": "/nickhabashigauthier/static/media/seeflix.4377c301980360c3064c.png",
     "static/media/market.png": "/nickhabashigauthier/static/media/market.bed372920d3f46a958f4.png",
     "static/media/pizzeria.png": "/nickhabashigauthier/static/media/pizzeria.cde3f800c7b514948a90.png",
     "static/media/planetField.png": "/nickhabashigauthier/static/media/planetField.cf8c87154f2c82967c36.png",
+    "static/media/CV_fr.pdf": "/nickhabashigauthier/static/media/CV_fr.11086137b40b100fd1e5.pdf",
     "static/media/taskbro.png": "/nickhabashigauthier/static/media/taskbro.6186400401a887e2c2bf.png",
+    "static/media/CV_en.pdf": "/nickhabashigauthier/static/media/CV_en.24eef8dde762dbcb8a79.pdf",
+    "static/media/favplaces.png": "/nickhabashigauthier/static/media/favplaces.dab4dfd14deb47dc5b55.png",
+    "static/media/mealapp.png": "/nickhabashigauthier/static/media/mealapp.68f6234b306a46f3bfad.png",
     "static/media/code.png": "/nickhabashigauthier/static/media/code.c22f93134a269ff0a181.png",
-    "static/media/CV_EN_R.pdf": "/nickhabashigauthier/static/media/CV_EN_R.a5ba77f97e82df463c0f.pdf",
-    "static/media/CV_FR_R.pdf": "/nickhabashigauthier/static/media/CV_FR_R.9506f76de8e205fbf44a.pdf",
+    "static/media/chatapp.png": "/nickhabashigauthier/static/media/chatapp.ec3d01b9577fc04aa129.png",
     "static/media/game_2.png": "/nickhabashigauthier/static/media/game_2.4a367bef8dc4413c7431.png",
     "static/media/header.jpg": "/nickhabashigauthier/static/media/header.10762427e704d53a66bd.jpg",
     "static/media/game_1.png": "/nickhabashigauthier/static/media/game_1.1e761a4a168ba5d95bb0.png",
     "index.html": "/nickhabashigauthier/index.html",
-    "main.6185ac8b.css.map": "/nickhabashigauthier/static/css/main.6185ac8b.css.map",
-    "main.16d182f5.js.map": "/nickhabashigauthier/static/js/main.16d182f5.js.map"
+    "main.59e116f9.css.map": "/nickhabashigauthier/static/css/main.59e116f9.css.map",
+    "main.221b90ed.js.map": "/nickhabashigauthier/static/js/main.221b90ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.6185ac8b.css",
-    "static/js/main.16d182f5.js"
+    "static/css/main.59e116f9.css",
+    "static/js/main.221b90ed.js"
   ]
 }
